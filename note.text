@@ -1,0 +1,9 @@
+B1: tạo file editorconfig.xml
+B2: tạo dự án vue 
+    + npm init vite vue
+    + npm i && npm run dev //khởi tạo npm và chạy
+    + npm install -S vuex@next //cài đặt vuex@next
+B3: Tạo thư mục store trong vue
+B4: cài đặt tailwind css
+B5: npm install @headlessui/vue @heroicons/vue @tailwindcss/forms -S
+B6: Cài vue-router // npm i -S vue-router@next
